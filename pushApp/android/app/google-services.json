@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613779149351",
+    "project_id": "push-app-canei",
+    "storage_bucket": "push-app-canei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613779149351:android:be2b5969f8db17c2603402",
+        "android_client_info": {
+          "package_name": "com.cleoicanei.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613779149351-jrf2gj71vbvru393mdiafrgh30v6krhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCko-dMwsh0V5XnpPEcTcCEbqqbGbSUKww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613779149351-jrf2gj71vbvru393mdiafrgh30v6krhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
